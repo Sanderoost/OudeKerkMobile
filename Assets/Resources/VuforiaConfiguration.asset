@@ -22,7 +22,7 @@ MonoBehaviour:
     virtualSceneScaleFactor: 1
     useDelayedLoadingObjectTargets: 0
     modelTargetRecoWhileExtendedTracked: 1
-    version: 8.5.9
+    version: 9.0.12
     eulaAcceptedVersions: '{"Values":["8.5","9.0"]}'
     modelTargetMode: 0
   database:
@@ -37,6 +37,6 @@ MonoBehaviour:
     arcoreRequirement: 0
     autoImportArcore: 0
   playmode:
-    playModeType: 0
+    playModeType: 1
   webcam:
     renderTextureLayer: 30
