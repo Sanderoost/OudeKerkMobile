@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="80s" size="900.000000 1600.778687" />
     <ImageTarget name="placeholder" size="1.000000 0.750909" />
+    <ImageTarget name="graf_Jacob_de_Wilde" size="1.000000 1.375000" />
   </Tracking>
 </QCARConfig>
