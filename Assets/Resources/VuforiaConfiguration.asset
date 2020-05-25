@@ -21,9 +21,15 @@ MonoBehaviour:
     maxSimultaneousObjectTargets: 1
     virtualSceneScaleFactor: 1
     useDelayedLoadingObjectTargets: 0
+<<<<<<< HEAD
     modelTargetRecoWhileExtendedTracked: 1
     version: 9.0.12
     eulaAcceptedVersions: '{"Values":["8.5","9.0"]}'
+=======
+    modelTargetRecoWhileExtendedTracked: 0
+    version: 9.0.12
+    eulaAcceptedVersions: '{"Values":["8.5","9.0","9.1"]}'
+>>>>>>> e1a70cba93073c50bb17a03d98c3118f08c864cc
     modelTargetMode: 0
   database:
     disableModelExtraction: 0
